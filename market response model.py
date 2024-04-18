@@ -3,7 +3,7 @@ import numpy as np
 import statsmodels.api as sm
 
 # Load the Excel file
-file_path = r"C:\Users\taylo\Desktop\workspace\marketing\assignment 2\Advertising Placement Data.xlsx"  
+file_path = r"https://github.com/yuhsuan531/BEMM463-CW-2024/raw/main/Advertising%20Placement%20Data.xlsx"  
 df = pd.read_excel(file_path)
 
 # Check the structure and content of the DataFrame
